@@ -7,3 +7,5 @@ The USGS is interested in building a new set of tools that will allow them visua
 The USGS provides earthquake data in a number of different formats, updated every 5 minutes. This repository will usse the USGS GeoJSON Feed page and obtains a data set to visualize. 
 
 This repository creates a map using Leaflet that plots all of the earthquakes from your data set based on their longitude and latitude. 
+
+![earthquakes](https://github.com/jmguzman1/leaflet-earthquakes/blob/main/Images/earthquakes.png)
