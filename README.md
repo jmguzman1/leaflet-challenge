@@ -6,4 +6,3 @@ The USGS is interested in building a new set of tools that will allow them visua
 
 The USGS provides earthquake data in a number of different formats, updated every 5 minutes. This repository will usse the USGS GeoJSON Feed page and obtain a data set to visualize. 
 
-The map uses Leaflet to plots all of the earthquakes from the data set based on their longitude and latitude. The data markers should reflect the magnitude of the earthquake by their size and and depth of the earth quake by color. Earthquakes with higher magnitudes appear larger and earthquakes with greater depth appear darker in color.
